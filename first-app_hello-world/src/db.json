@@ -1,0 +1,115 @@
+{
+    "locations": [
+    {
+    "id": 0,
+    "name": "Acme Fresh Start Housing",
+    "city": "Chicago",
+    "state": "IL",
+    "photo": "https://www.zapimoveis.com.br/blog/wp-content/uploads/2014/06/casa31-1280x720.jpg",
+    "availableUnits": 4,
+    "wifi": true,
+    "laundry": true
+    },
+    {
+    "id": 1,
+    "name": "A113 Transitional Housing",
+    "city": "Santa Monica",
+    "state": "CA",
+    "photo": "https://res.cloudinary.com/micronetonline/image/upload/c_crop,h_523,w_1080,x_0,y_19/v1626457876/tenants/25066785-7292-4891-9541-776cb4caae0a/f96cc6b6750f4d5c9a730f6335fef972/gsf-1.jpg",
+    "availableUnits": 13,
+    "wifi": false,
+    "laundry": true
+    },
+    {
+    "id": 2,
+    "name": "Warm Beds Housing Support",
+    "city": "Juneau",
+    "state": "AK",
+    "photo": "https://saltwire.imgix.net/2021/6/28/PE-28062021-Deacon-House-SN2.JPG?cs=srgb&fit=crop&h=568&w=847&dpr=1&auto=enhance%2Cformat%2Ccompress",
+    "availableUnits": 1,
+    "wifi": false,
+    "laundry": false
+    },
+    {
+    "id": 3,
+    "name": "Homesteady Housing",
+    "city": "Chicago",
+    "state": "IL",
+    "photo": "https://scontent.fsod2-1.fna.fbcdn.net/v/t39.30808-6/424571096_2146593449014290_7246438619752446117_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c42490&_nc_ohc=Sh0b-8Kfd-8AX_B1DEV&_nc_ht=scontent.fsod2-1.fna&oh=00_AfA7sxbZpbFLTLqB0RJt-4gFodJoalT9RKN-hcEiTslXng&oe=65BFDECF",
+    "availableUnits": 1,
+    "wifi": true,
+    "laundry": false
+    },
+    {
+    "id": 4,
+    "name": "Happy Homes Group",
+    "city": "Gary",
+    "state": "IN",
+    "photo": "https://scontent.fsod2-1.fna.fbcdn.net/v/t39.30808-6/424773728_122115743072185345_5112843684880488260_n.jpg?stp=dst-jpg_p526x296&_nc_cat=105&ccb=1-7&_nc_sid=c42490&_nc_ohc=Lv9A1QDFMZsAX9ZFc52&_nc_ht=scontent.fsod2-1.fna&oh=00_AfBrqM5yGUSBLP_8b-OG8Qd6qNE6xVYEylWlHWxoZAFXDA&oe=65C07D82",
+    "availableUnits": 1,
+    "wifi": true,
+    "laundry": false
+    },
+    {
+    "id": 5,
+    "name": "Hopeful Apartment Group",
+    "city": "Oakland",
+    "state": "CA",
+    "photo": "https://scontent.fsod2-1.fna.fbcdn.net/v/t39.30808-6/334953550_156648097259907_6858402577315716516_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=173fa1&_nc_ohc=99Q6dZtmOMAAX_8ukkn&_nc_ht=scontent.fsod2-1.fna&oh=00_AfDgnhMDUUKKIcq63Sd3FIoL-b6JF9Jti4y3BHkUxxyfjw&oe=65C086BA",
+    "availableUnits": 2,
+    "wifi": true,
+    "laundry": true
+    },
+    {
+    "id": 6,
+    "name": "Seriously Safe Towns",
+    "city": "Oakland",
+    "state": "CA",
+    "photo": "https://scontent.fsod2-1.fna.fbcdn.net/v/t39.30808-6/423236681_2365350290323279_4526461598423253569_n.jpg?stp=dst-jpg_p526x395&_nc_cat=104&ccb=1-7&_nc_sid=c42490&_nc_ohc=M9xE_Nhv-zAAX8_I9Kd&_nc_ht=scontent.fsod2-1.fna&oh=00_AfC6B3tj39RcKTZmg6QqxwRw6GINBMkE0o7wZ8Vs3W-PnA&oe=65C0BF5C",
+
+    "availableUnits": 5,
+    "wifi": true,
+    "laundry": true
+    },
+    {
+    "id": 7,
+    "name": "Hopeful Housing Solutions",
+    "city": "Oakland",
+    "state": "CA",
+    "photo": "https://scontent.fsod2-1.fna.fbcdn.net/v/t39.30808-6/423162032_3726717104316611_3497634783388974802_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c42490&_nc_ohc=0COdAA0MfdIAX826rpo&_nc_ht=scontent.fsod2-1.fna&oh=00_AfAn1kwYl4nE2vP9ZILJUzMNE6phnkZoXhqYp2WMtCujEQ&oe=65BF692C",
+    "availableUnits": 2,
+    "wifi": true,
+    "laundry": true
+    },
+    {
+    "id": 8,
+    "name": "Seriously Safe Towns",
+    "city": "Oakland",
+    "state": "CA",
+    "photo": "https://scontent.fsod2-1.fna.fbcdn.net/v/t39.30808-6/424668437_6903617979749338_1066862578697380796_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c42490&_nc_ohc=gBXCecEC0GAAX_Hjkmc&_nc_ht=scontent.fsod2-1.fna&oh=00_AfAY9BRSCqReC-9M7Qh08cOjiX576ZAV00NNG1uaFOxupA&oe=65C003FE",
+    "availableUnits": 10,
+    "wifi": false,
+    "laundry": false
+    },
+    {
+    "id": 9,
+    "name": "Capital Safe Towns",
+    "city": "Portland",
+    "state": "OR",
+    "photo": "https://scontent.fsod2-1.fna.fbcdn.net/v/t39.30808-6/421594281_7065055040260513_7854836837423934140_n.jpg?stp=dst-jpg_p526x296&_nc_cat=102&ccb=1-7&_nc_sid=c42490&_nc_ohc=3nPE-MzGqmEAX_73uVy&_nc_ht=scontent.fsod2-1.fna&oh=00_AfC02t7m7UVBSTkmJH3TW3SDJrn7HuBXwhdM359LRb53qg&oe=65BF65B1",
+    "availableUnits": 6,
+    "wifi": true,
+    "laundry": true
+    },
+    {
+    "id": 10,
+    "name": "Capital Safe Towns",
+    "city": "Portland",
+    "state": "OR",
+    "photo": "https://scontent.fsod2-1.fna.fbcdn.net/v/t39.30808-6/424532474_3726652580989730_8470713917422569680_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c42490&_nc_ohc=qbnv9_ShByMAX_r-CHD&_nc_ht=scontent.fsod2-1.fna&oh=00_AfAajjTpKCre3wwBVSoO_G3Dtf3udAmCxW6fjUjeKMPGfA&oe=65BFC23C",
+    "availableUnits": 9,
+    "wifi": true,
+    "laundry": true
+    }
+    ]
+    }
